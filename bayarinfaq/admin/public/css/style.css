@@ -1,0 +1,11 @@
+.jumbotron{
+  padding-top: 6rem; /* ukuran padding: ukuran_atasBawah ukuran_kiriKanan */
+  /* background-color: #0446b1; */
+  /* background-image: url('../img/mesjid.jpg'); */
+}
+#galery {
+  background-color: #e2ffe9;
+}
+section {
+  padding-top: 5rem;
+}
